@@ -1,0 +1,167 @@
+[06-Jan-2013 18:01:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 18:01:58] PHP Parse error:  syntax error, unexpected '.' in /home/grandein/public_html/glbrintranet.com.br/topo.php on line 29
+[06-Jan-2013 18:02:21] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 18:02:21] PHP Parse error:  syntax error, unexpected '.' in /home/grandein/public_html/glbrintranet.com.br/topo.php on line 29
+[06-Jan-2013 18:03:22] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:22:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:22:53] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:23:11] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:43:41] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:43:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:45:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:50:06] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:50:30] PHP Warning:  copy(./adm/usuarios/arquivos/170/1341816435886.png) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/grandein/public_html/glbrintranet.com.br/perfil.php on line 93
+[06-Jan-2013 20:50:30] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grandein/public_html/glbrintranet.com.br/perfil.php:93) in /home/grandein/public_html/glbrintranet.com.br/perfil.php on line 134
+[06-Jan-2013 20:50:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:55:24] PHP Warning:  copy(./adm/usuarios/arquivos/170/1341880916080.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/grandein/public_html/glbrintranet.com.br/perfil.php on line 93
+[06-Jan-2013 20:55:24] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/grandein/public_html/glbrintranet.com.br/perfil.php:81) in /home/grandein/public_html/glbrintranet.com.br/perfil.php on line 134
+[06-Jan-2013 20:58:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 20:59:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/grandein/public_html/glbrintranet.com.br/principal.php:1) in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 3
+[06-Jan-2013 21:50:58] PHP Parse error:  syntax error, unexpected ';' in /home/grandein/public_html/glbrintranet.com.br/principal.php on line 94
+[10-Jan-2013 21:26:12] PHP Parse error:  syntax error, unexpected $end in /home/grandein/public_html/glbrintranet.com.br/eventosEmp.php on line 79
+[21-Jan-2013 12:59:44] PHP Parse error:  syntax error, unexpected $end in /home/grandein/public_html/glbrintranet.com.br/projeto.php on line 34
+[21-Jan-2013 15:36:59] PHP Parse error:  syntax error, unexpected $end in /home/grandein/public_html/glbrintranet.com.br/projeto.php on line 34
+[04-Feb-2013 18:47:28] PHP Parse error:  syntax error, unexpected '<' in /home/grandein/public_html/glbrintranet.com.br/projetos.php on line 22
+[05-Mar-2013 07:29:56] PHP Parse error:  syntax error, unexpected '}' in /home/rvadmin/public_html/apresentacao.php on line 39
+[15-Apr-2013 09:12:53] PHP Parse error:  syntax error, unexpected '<' in /home/rvadmin/public_html/projetos.php on line 17
+[25-Apr-2013 08:19:20] PHP Parse error:  syntax error, unexpected $end in /home/rvadmin/public_html/empresa.php on line 151
+[03-May-2013 12:07:42] PHP Parse error:  syntax error, unexpected '}' in /home/rvadmin/public_html/projetos.php on line 34
+[14-May-2013 14:35:58] PHP Parse error:  syntax error, unexpected '<' in /home/rvadmin/public_html/noticias.php on line 39
+[10-Jul-2013 08:32:18] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:32:18] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Jul-2013 08:32:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:32:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Jul-2013 08:33:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:33:10] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Jul-2013 08:33:39] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:33:39] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Jul-2013 08:34:00] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:34:00] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Jul-2013 08:34:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Jul-2013 08:34:23] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[11-Jul-2013 08:10:29] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[11-Jul-2013 08:10:29] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[11-Jul-2013 11:05:36] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[11-Jul-2013 11:05:36] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[11-Jul-2013 12:20:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[11-Jul-2013 12:20:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[31-Jul-2013 15:26:02] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[31-Jul-2013 15:26:03] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Aug-2013 09:52:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Aug-2013 09:52:56] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Aug-2013 09:59:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Aug-2013 09:59:30] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Aug-2013 09:59:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Aug-2013 09:59:40] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Aug-2013 14:52:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Aug-2013 14:52:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Aug-2013 14:52:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Aug-2013 14:52:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Aug-2013 06:56:33] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Aug-2013 06:56:33] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Aug-2013 11:14:42] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Aug-2013 11:14:42] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Aug-2013 13:27:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Aug-2013 13:27:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[16-Aug-2013 13:03:26] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[16-Aug-2013 13:03:26] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 08:09:55] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 08:09:55] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 08:10:08] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 08:10:08] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 08:10:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 08:10:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 08:10:25] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 08:10:25] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 08:11:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 08:11:22] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 09:01:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 09:01:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 11:32:33] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 11:32:33] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Aug-2013 13:59:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Aug-2013 13:59:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[20-Aug-2013 07:48:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[20-Aug-2013 07:48:01] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[20-Aug-2013 09:52:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[20-Aug-2013 09:52:09] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[20-Aug-2013 11:42:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[20-Aug-2013 11:42:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[20-Aug-2013 14:51:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[20-Aug-2013 14:51:15] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[21-Aug-2013 11:36:47] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[21-Aug-2013 11:36:47] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[26-Aug-2013 15:14:17] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[26-Aug-2013 15:14:17] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[29-Aug-2013 09:06:21] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[29-Aug-2013 09:06:21] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[29-Aug-2013 09:29:51] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[29-Aug-2013 09:29:51] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[30-Aug-2013 13:41:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[30-Aug-2013 13:41:12] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[30-Aug-2013 13:43:41] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[30-Aug-2013 13:43:41] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[30-Aug-2013 13:43:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[30-Aug-2013 13:43:52] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[04-Sep-2013 09:00:49] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[04-Sep-2013 09:00:49] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[05-Sep-2013 11:13:36] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[05-Sep-2013 11:13:36] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[05-Sep-2013 15:01:54] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[05-Sep-2013 15:01:54] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[05-Sep-2013 15:02:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[05-Sep-2013 15:02:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[05-Sep-2013 15:08:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[05-Sep-2013 15:08:16] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[06-Sep-2013 12:28:41] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[06-Sep-2013 12:28:41] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[06-Sep-2013 12:34:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[06-Sep-2013 12:34:24] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[06-Sep-2013 12:34:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[06-Sep-2013 12:34:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[06-Sep-2013 13:44:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[06-Sep-2013 13:44:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[09-Sep-2013 08:19:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[09-Sep-2013 08:19:34] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[09-Sep-2013 13:18:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[09-Sep-2013 13:18:07] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[09-Sep-2013 15:14:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[09-Sep-2013 15:14:58] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[09-Sep-2013 15:52:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[09-Sep-2013 15:52:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Sep-2013 06:24:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Sep-2013 06:24:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Sep-2013 12:04:26] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Sep-2013 12:04:26] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[19-Sep-2013 12:17:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[19-Sep-2013 12:17:28] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[24-Sep-2013 12:02:50] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[24-Sep-2013 12:02:50] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[24-Sep-2013 12:02:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[24-Sep-2013 12:02:59] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[24-Sep-2013 12:20:42] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[24-Sep-2013 12:20:42] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[24-Sep-2013 12:20:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[24-Sep-2013 12:20:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[25-Sep-2013 06:42:55] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[25-Sep-2013 06:42:55] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[07-Oct-2013 07:39:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[07-Oct-2013 07:39:53] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[07-Oct-2013 07:40:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[07-Oct-2013 07:40:05] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Oct-2013 09:08:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Oct-2013 09:08:13] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[10-Oct-2013 09:08:29] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[10-Oct-2013 09:08:29] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Oct-2013 13:22:19] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Oct-2013 13:22:19] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Oct-2013 13:22:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Oct-2013 13:22:45] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[15-Oct-2013 13:23:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[15-Oct-2013 13:23:04] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[28-Oct-2013 11:58:25] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[28-Oct-2013 11:58:25] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[14-Nov-2013 14:09:14] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 24
+[14-Nov-2013 14:09:14] PHP Warning:  mysql_result(): supplied argument is not a valid MySQL result resource in /home/rvadmin/public_html/topo.php on line 44
+[01-May-2014 02:31:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[01-May-2014 02:31:52 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_pgsql.so' - /usr/local/lib/php/extensions/no-debug-non-zts-20090626/pdo_pgsql.so: cannot open shared object file: No such file or directory in Unknown on line 0

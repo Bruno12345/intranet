@@ -1,0 +1,2 @@
+[02-Jan-2013 22:01:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/helpdesk/public_html/intranet/engine/conexao.php on line 23
+[02-Jan-2013 22:01:32] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'root'@'localhost' (using password: YES) in /home/helpdesk/public_html/intranet/engine/conexao.php on line 23
